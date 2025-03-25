@@ -1,0 +1,1 @@
+- Das Programm sollte einwandfrei ohne Fehlermeldungen nach den Anforderungen erfüllen
