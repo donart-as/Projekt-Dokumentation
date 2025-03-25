@@ -1,0 +1,1 @@
+Das Projekt XYZ verfolgt das Ziel, [kurze Beschreibung des Ziels, z. B. eine neue Software zu entwickeln, eine Studie durchzuführen oder ein Produkt zu verbessern]. Es wurde initiiert von [Name des Teams, der Organisation oder der beteiligten Personen] und umfasst verschiedene Entwicklungsphasen.
