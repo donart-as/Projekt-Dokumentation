@@ -1,0 +1,12 @@
+name: Use secret as environment variable
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run a command with a secret
+        env:
+          API_KEY: ${{FTP_USER}} # Use your secret here
+        run: echo "Using secret in a command"
